@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1782757249" />
+    <testcase name="ekf_test" classname="test_ekf" file="/app/tb/test_ekf.py" lineno="125" time="41.251447677612305" sim_time_ns="2000180.0" ratio_time="48487.51044161594" />
+  </testsuite>
+</testsuites>
